@@ -1,0 +1,20 @@
+How to go into root folder ?
+sudo su 
+cd /
+ls
+cd root 
+
+..........................................................................
+How to remove a folder ?
+rm -rf new_folder 
+
+..........................................................................
+
+print some line and give it a direction to file without opening the file 
+
+echo "Aman Gupta" > new_file.txt
+.........................................................................
+
+to get some details of folder 
+
+ls -la
